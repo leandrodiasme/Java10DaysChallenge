@@ -1,4 +1,6 @@
 package Day1;
 
-public class Animal {
+public abstract class Animal {
+    abstract String makeNoise();
 }
+
