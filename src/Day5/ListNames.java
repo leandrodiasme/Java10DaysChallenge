@@ -16,6 +16,5 @@ public class ListNames {
         for (String name : names) {
             System.out.println(name);
         }
-
     }
 }
